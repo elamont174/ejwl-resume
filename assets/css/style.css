@@ -3,7 +3,7 @@
 /*----------------------------------Colours*/
 
 .bg-color-name-title {
-    background-color: #C94F68;
+    background-color: #E87E9F;
 }
 
 .bg-color-three-reasons {
@@ -11,19 +11,19 @@
 }
 
 .ui-menu-color-home {
-    background-color: #C94FA5;
+    background-color: #E87E85;
 }
 
 .ui-menu-color-resume {
-    background-color: #C9734F;
+    background-color: #E8927E;
 }
 
 .ui-menu-color-contact {
-    background-color: #C9B04F;
+    background-color: #E8AD7E;
 }
 
 .ui-menu-color-download {
-    background-color: #A5C94F;
+    background-color: #E8C77E;
 }
 
 /*----------------------------------Special paddings/margins/text*/
@@ -161,7 +161,7 @@ a.hvr-sweep-to-bottom:before {
 /*----------------------------------Footer*/
 
 footer {
-    background-color: #C94F68;
+    background-color: #E87E9F;
     color: white;
     min-height: 120px;
 }
@@ -178,7 +178,7 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #68C94F;
+    color: #E8E27E;
 }
 
 .social-links {
@@ -201,7 +201,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background-color: #68C94F;
+    background-color: #E8E27E;
 }
 
 #footer-details[
