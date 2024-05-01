@@ -26,6 +26,10 @@
     background-color: #E8C77E;
 }
 
+.acting-cv {
+    
+}
+
 /*----------------------------------Special paddings/margins/text*/
 
 h1, 
@@ -158,6 +162,10 @@ a.hvr-sweep-to-bottom:before {
     height: 120px;
 }
 
+.acting-cv i:hover {
+    color: #E8E27E;
+}
+
 /*----------------------------------Footer*/
 
 footer {
@@ -168,7 +176,7 @@ footer {
 
 .cv-pdf i{
     font-size: 18px;
-    color: #white;
+    color: white;
     text-align: center;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
@@ -204,6 +212,18 @@ footer {
     background-color: #E8E27E;
 }
 
-#footer-details[
+#footer-details {
     padding: 20px; 
-]
+}
+
+
+/*----------------------------------Home content*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #E87E85;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
