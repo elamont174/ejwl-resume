@@ -11,7 +11,11 @@
 }
 
 .bg-color-personal-info {
-    background-color: rgba(232, 226, 126, 0.3);
+    background-color: rgba(232, 126, 133, 0.3);
+}
+
+.bg-color-work-history {
+    background-color: rgba(232, 126, 133, 0.3);
 }
 
 .ui-menu-color-home {
@@ -67,6 +71,7 @@ h4 {
     float: none;
 }
 
+.skills-heading, 
 .section-heading {
     font-family: "Quicksand", sans-serif;
     font-weight: 900;
@@ -268,3 +273,11 @@ footer {
     position: relative;
     width: 60%;
 }
+
+/*----------------------------------Resume content*/
+
+.resume-icon {
+    font-size: 26px;
+    color: #E8927E;
+}
+
